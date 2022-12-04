@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpyrSM7zpD0WJTCXqZNQU/bzYjrYDkBOWh/gK7hxtFixvBlxZyh1vevPGwr90diXgGsfvMIvx0m5hw1Fk7zaLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c\\Documents\\c#\\Video-Juego-main\\MonoGameDesktopGL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
